@@ -5,7 +5,9 @@ VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ", "LINQ\LINQ.csproj", "{05FBF55C-8186-45A7-9FB9-AA67FA363079}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLINQ", "Bai1_LINQ\DemoLINQ.csproj", "{7128B011-09F6-4AAF-9E74-694A0D0C8A2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoLINQ", "Bai1_LINQ\DemoLINQ.csproj", "{7128B011-09F6-4AAF-9E74-694A0D0C8A2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo2Linq", "Demo2Linq\Demo2Linq.csproj", "{266EB60E-B6BB-4451-BC3F-D363DA94B17F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{7128B011-09F6-4AAF-9E74-694A0D0C8A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7128B011-09F6-4AAF-9E74-694A0D0C8A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7128B011-09F6-4AAF-9E74-694A0D0C8A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{266EB60E-B6BB-4451-BC3F-D363DA94B17F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{266EB60E-B6BB-4451-BC3F-D363DA94B17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{266EB60E-B6BB-4451-BC3F-D363DA94B17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{266EB60E-B6BB-4451-BC3F-D363DA94B17F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

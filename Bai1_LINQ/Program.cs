@@ -16,6 +16,16 @@ namespace DemoLINQ
             public int DepartmentId { get; set; }
         }
 
+        class Animal
+        {
+            public string Name { get; set; }
+        }
+
+        class Cat : Animal
+        {
+            public double Weight { get; set; }
+        }
+
         static void Main(string[] args)
         {
             #region
@@ -162,9 +172,9 @@ namespace DemoLINQ
             #endregion
 
             #region
-            List<int> numbers1 = new List<int>() { 35, 44, 200, 84, 3987, 4, 199, 329, 446, 208 };
+            List<double> numbers1 = new List<double>() { 35, 44, 200, 84, 3987, 4, 199, 329, 446, 208 };
 
-            IEnumerable<IGrouping<int, int>> query1 = from number in numbers1
+            IEnumerable<IGrouping<double, double >> query1 = from number in numbers1
                                                      group number by number % 2;
 
             foreach (var group in query1)
@@ -178,6 +188,37 @@ namespace DemoLINQ
 
             #region
 
+            #region dung mang
+            Cat[] Cats = new Cat[]
+            {
+                new Cat{ Name = "Miu", Weight = 30 },
+                new Cat{ Name = "Mun", Weight = 40 },
+                new Cat{ Name = "Su", Weight = 50 },
+                new Cat { Name = "Bun", Weight = 20 }
+            };
+
+
+            var Cat = from Cat cat in Cats
+                      where cat.Weight <= 40
+                      select cat;
+            #endregion
+            #region dung list
+            //List<Cat> Cats = new List<Cat>();
+
+            //Cats.Add(new Cat() { Name = "Miu", Weight = 30 });
+            //Cats.Add(new Cat() { Name = "Mun", Weight = 40 });
+            //Cats.Add(new Cat() { Name = "Su", Weight = 50 });
+            //Cats.Add(new Cat (){ Name = "Bun", Weight = 20 });
+            //var Cat = from cat in Cats
+            //            where cat.Weight <=40
+            //            select cat;
+            #endregion
+            foreach (var cat in Cat)
+            {
+                Console.WriteLine("Name cat = {0} , Weight ={1}",cat.Name,cat.Weight);
+            }
+
+            Console.WriteLine("\nPress any key to continue.");
             #endregion
             Console.ReadKey();
         }

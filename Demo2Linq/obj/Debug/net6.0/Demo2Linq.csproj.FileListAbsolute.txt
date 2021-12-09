@@ -1,0 +1,15 @@
+D:\hocthem\LINQ\LINQ\Demo2Linq\bin\Debug\net6.0\Demo2Linq.exe
+D:\hocthem\LINQ\LINQ\Demo2Linq\bin\Debug\net6.0\Demo2Linq.deps.json
+D:\hocthem\LINQ\LINQ\Demo2Linq\bin\Debug\net6.0\Demo2Linq.runtimeconfig.json
+D:\hocthem\LINQ\LINQ\Demo2Linq\bin\Debug\net6.0\Demo2Linq.dll
+D:\hocthem\LINQ\LINQ\Demo2Linq\bin\Debug\net6.0\ref\Demo2Linq.dll
+D:\hocthem\LINQ\LINQ\Demo2Linq\bin\Debug\net6.0\Demo2Linq.pdb
+D:\hocthem\LINQ\LINQ\Demo2Linq\obj\Debug\net6.0\Demo2Linq.csproj.AssemblyReference.cache
+D:\hocthem\LINQ\LINQ\Demo2Linq\obj\Debug\net6.0\Demo2Linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\hocthem\LINQ\LINQ\Demo2Linq\obj\Debug\net6.0\Demo2Linq.AssemblyInfoInputs.cache
+D:\hocthem\LINQ\LINQ\Demo2Linq\obj\Debug\net6.0\Demo2Linq.AssemblyInfo.cs
+D:\hocthem\LINQ\LINQ\Demo2Linq\obj\Debug\net6.0\Demo2Linq.csproj.CoreCompileInputs.cache
+D:\hocthem\LINQ\LINQ\Demo2Linq\obj\Debug\net6.0\Demo2Linq.dll
+D:\hocthem\LINQ\LINQ\Demo2Linq\obj\Debug\net6.0\ref\Demo2Linq.dll
+D:\hocthem\LINQ\LINQ\Demo2Linq\obj\Debug\net6.0\Demo2Linq.pdb
+D:\hocthem\LINQ\LINQ\Demo2Linq\obj\Debug\net6.0\Demo2Linq.genruntimeconfig.cache
