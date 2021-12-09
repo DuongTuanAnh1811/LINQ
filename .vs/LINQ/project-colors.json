@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "05fbf55c-8186-45a7-9fb9-aa67fa363079": {
+      "ProjectGuid": "05fbf55c-8186-45a7-9fb9-aa67fa363079",
+      "DisplayName": "LINQ",
+      "ColorIndex": 0
+    },
+    "7128b011-09f6-4aaf-9e74-694a0d0c8a2a": {
+      "ProjectGuid": "7128b011-09f6-4aaf-9e74-694a0d0c8a2a",
+      "DisplayName": "DemoLINQ",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

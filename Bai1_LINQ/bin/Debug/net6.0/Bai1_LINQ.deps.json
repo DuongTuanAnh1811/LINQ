@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bai1_LINQ/1.0.0": {
+        "runtime": {
+          "Bai1_LINQ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai1_LINQ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

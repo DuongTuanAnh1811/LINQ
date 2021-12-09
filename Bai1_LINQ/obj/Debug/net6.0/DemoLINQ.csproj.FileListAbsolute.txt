@@ -1,0 +1,15 @@
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\bin\Debug\net6.0\DemoLINQ.exe
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\bin\Debug\net6.0\DemoLINQ.deps.json
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\bin\Debug\net6.0\DemoLINQ.runtimeconfig.json
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\bin\Debug\net6.0\DemoLINQ.dll
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\bin\Debug\net6.0\ref\DemoLINQ.dll
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\bin\Debug\net6.0\DemoLINQ.pdb
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\obj\Debug\net6.0\DemoLINQ.csproj.AssemblyReference.cache
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\obj\Debug\net6.0\DemoLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\obj\Debug\net6.0\DemoLINQ.AssemblyInfoInputs.cache
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\obj\Debug\net6.0\DemoLINQ.AssemblyInfo.cs
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\obj\Debug\net6.0\DemoLINQ.csproj.CoreCompileInputs.cache
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\obj\Debug\net6.0\DemoLINQ.dll
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\obj\Debug\net6.0\ref\DemoLINQ.dll
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\obj\Debug\net6.0\DemoLINQ.pdb
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\obj\Debug\net6.0\DemoLINQ.genruntimeconfig.cache

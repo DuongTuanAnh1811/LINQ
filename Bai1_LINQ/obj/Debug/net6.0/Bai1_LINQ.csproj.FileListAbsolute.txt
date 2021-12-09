@@ -1,0 +1,15 @@
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\bin\Debug\net6.0\Bai1_LINQ.exe
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\bin\Debug\net6.0\Bai1_LINQ.deps.json
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\bin\Debug\net6.0\Bai1_LINQ.runtimeconfig.json
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\bin\Debug\net6.0\Bai1_LINQ.dll
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\bin\Debug\net6.0\ref\Bai1_LINQ.dll
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\bin\Debug\net6.0\Bai1_LINQ.pdb
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\obj\Debug\net6.0\Bai1_LINQ.csproj.AssemblyReference.cache
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\obj\Debug\net6.0\Bai1_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\obj\Debug\net6.0\Bai1_LINQ.AssemblyInfoInputs.cache
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\obj\Debug\net6.0\Bai1_LINQ.AssemblyInfo.cs
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\obj\Debug\net6.0\Bai1_LINQ.csproj.CoreCompileInputs.cache
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\obj\Debug\net6.0\Bai1_LINQ.dll
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\obj\Debug\net6.0\ref\Bai1_LINQ.dll
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\obj\Debug\net6.0\Bai1_LINQ.pdb
+D:\hocthem\LINQ\LINQ\Bai1_LINQ\obj\Debug\net6.0\Bai1_LINQ.genruntimeconfig.cache
